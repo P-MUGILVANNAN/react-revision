@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/react-revision/static/css/main.31d6cfe0.css",
+    "main.js": "/react-revision/static/js/main.33627bdb.js",
+    "index.html": "/react-revision/index.html",
+    "main.33627bdb.js.map": "/react-revision/static/js/main.33627bdb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.33627bdb.js"
+  ]
+}
